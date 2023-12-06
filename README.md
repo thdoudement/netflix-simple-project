@@ -24,10 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## 💻 Funcionalidades Principais
-
-O Old Netflix Simple Project é um projeto de aprendizado.
-
 ---
 
 Feito com ♥ by Thiago Gomes Doudement :wave:
